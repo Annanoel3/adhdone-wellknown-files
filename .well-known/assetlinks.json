@@ -3,7 +3,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "YOUR.PACKAGE.NAME",
+      "package_name": "co.median.android.odxqpdqy",
       "sha256_cert_fingerprints": [
         "77B605385CBE9B5F82032B18327895232C8D4283E9F16D53CE3E7FDF51E7CB5A"
       ]
